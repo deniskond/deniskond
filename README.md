@@ -2,4 +2,4 @@
 - 👋 Hi! I’m Denis Kondarattsev
 - 👀 I’m a frontend developer
 - 🌱 I prefer working with Angular, also I have experience with Vue
-- 📫 How to reach me: [https://www.linkedin.com/in/denis-kondarattsev-7702b9127/](https://www.linkedin.com/in/denis-kondarattsev)
+- 📫 How to reach me: [https://www.linkedin.com/in/denis-kondarattsev](https://www.linkedin.com/in/denis-kondarattsev)
